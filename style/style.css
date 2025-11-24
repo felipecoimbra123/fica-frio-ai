@@ -36,6 +36,11 @@ header div {
     font-size: 25px;
 }
 
+button {
+    border: none;
+    background-color: transparent;
+}
+
 .input-pesquisa {
     padding: 15px;
     border-radius: 10px;
